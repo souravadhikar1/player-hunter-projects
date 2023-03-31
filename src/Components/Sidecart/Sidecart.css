@@ -1,0 +1,8 @@
+.value-section {
+  width: 300px;
+  height: 510px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  position: sticky;
+  top: 0;
+}

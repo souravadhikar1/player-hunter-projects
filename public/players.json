@@ -1,0 +1,58 @@
+[
+    {
+      "PlayerName": "Leonel Messi",
+      "id" : 1,
+      "age": 35,
+      "branValue": 800,
+      "image": "https://www.aljazeera.com/wp-content/uploads/2022/12/SSS10794_1-1.jpg?resize=770%2C513&quality=80",
+      "club": "Bercelona",
+      "goals": 1400
+    },
+    {
+      "PlayerName": "Angle Di maria",
+      "id" : 2,
+      "age": 36,
+      "branValue": 400,
+      "image": "https://e00-marca.uecdn.es/assets/multimedia/imagenes/2022/12/18/16713891949677.jpg",
+      "club": "Juventas",
+      "goals": 700 
+    },
+    
+        {
+          "PlayerName": "Julián Álvarez",
+          "id" : 3,
+          "age": 24,
+          "branValue": 300,
+          "image": "https://static.toiimg.com/thumb/msid-96214792,width-1280,resizemode-4/96214792.jpg",
+          "club": "Manchester City",
+          "goals": 400
+        },
+        
+        {
+          "PlayerName": "Lautaro Martínez",
+          "id" : 4,
+          "age": 25,
+          "branValue": 350,
+          "image": "https://thumb.tvonenews.com/thumbnail/2022/12/19/639f839212f25-paulo-dybala-menggunting-jaring-gawang-piala-dunia-2022_1265_711.jpg",
+          "club": "Napoli",
+          "goals": 450
+        },
+        {
+          "PlayerName": "Emiliano Martínez",
+          "id" : 5,
+          "age": 29,
+          "branValue": 250,
+          "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202212/rtsea2bi-one_one.jpg?VersionId=.b1hX69wq1nf9ZV1mjBkZRjzacMxyO4q",
+          "club": "England",
+          "goals": "Goal save "
+        },
+        {
+          "PlayerName": "Rodrigo De Paul",
+          "id" : 6,
+          "age": 32,
+          "branValue": 600,
+          "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt4056d4c0d0c69a8e/63a016f004e00356fdaf3409/GettyImages-1450121440.jpg",
+          "club": "Atletico Madrid",
+          "goals": 270        
+        }
+]

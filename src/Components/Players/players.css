@@ -1,0 +1,27 @@
+.main-player {
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  margin-top: 20px;
+}
+
+.sub-player {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 45px;
+}
+
+.main-player h1 {
+  text-align: center;
+
+  text-shadow: 2px 2px blue;
+}
+
+.side-section h2 {
+  text-shadow: 2px 2px orange;
+  font-size: 1.87em;
+}
+
+.side-section {
+  position: sticky;
+  top: 0;
+}

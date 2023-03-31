@@ -1,0 +1,45 @@
+.player-container img {
+  width: 100%;
+  height: 286px;
+}
+
+.player-container {
+  position: relative;
+  width: 300px;
+  height: 610px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+}
+
+.player-title {
+  margin-left: 10px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-family: "Lato";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+}
+
+.player-title h4 {
+  text-shadow: 2px 2px 5px red;
+}
+
+.btn-section {
+  color: black;
+  font-size: 20px;
+  text-shadow: 0 0 3px #ff0000;
+  width: 100%;
+  padding: 20px;
+  background: greenyellow;
+  border: 1px solid #95a0a7;
+  border-radius: 0px 0px 8px 8px;
+  position: absolute;
+  bottom: 0;
+}
+
+.btn-section:hover {
+  background-color: orangered;
+}
